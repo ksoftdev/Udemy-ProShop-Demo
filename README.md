@@ -1,5 +1,5 @@
 Udemy-ProShop-Demo HEROKU + AWS
 
-![DEMO](../master/Demo.jpg)
+![DEMO](../main/Demo.jpg)
 
-[Demo Link]: (https://proshop-demo-udemy.herokuapp.com)
+[Demo link](https://proshop-demo-udemy.herokuapp.com)
