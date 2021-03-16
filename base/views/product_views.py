@@ -22,7 +22,7 @@ def getProducts(request):
 
     page = request.query_params.get('page')
     # Send the resultset and the number of items we want on each page
-    paginator = Paginator(products, 6)
+    paginator = Paginator(products, 4)
 
     try:
         products = paginator.page(page)
