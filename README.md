@@ -7,7 +7,8 @@ Main features:
 * Full featured shopping cart
 * Paypal payments integration
 * Users and products management from Admin panel
-* User profiles
+* User profile
+* Full product checkout process
 
 Covers:
 
@@ -33,11 +34,11 @@ Technologies:
 
 Online live demo
 
-[Demo link](https://proshop-demo-udemy.herokuapp.com)
+* [Demo link](https://proshop-demo-udemy.herokuapp.com)
 
 ## Credits
 
 Udemy course from Dennis Ivy
 
-[Dennis Ivy Udemy Course](https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1)
-[Dennis Github Repo](https://github.com/divanov11/proshop_django)
+* [Dennis Ivy Udemy Course](https://www.udemy.com/course/django-with-react-an-ecommerce-website/?couponCode=387F19CD4087385E87C1)
+* [Dennis Github Repo](https://github.com/divanov11/proshop_django)
